@@ -1,0 +1,49 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Local Todo 1",
+      "isCompleted": true
+    },
+    {
+      "id": 2,
+      "text": "Local Todo 2",
+      "isCompleted": false
+    },
+    {
+      "id": 3,
+      "text": "Local Todo 3",
+      "isCompleted": false
+    },
+    {
+      "text": "sumeet",
+      "isCompleted": false,
+      "id": 4
+    },
+    {
+      "text": "morning",
+      "isCompleted": false,
+      "id": 5
+    },
+    {
+      "text": "more",
+      "isCompleted": false,
+      "id": 6
+    },
+    {
+      "text": "mid",
+      "isCompleted": false,
+      "id": 7
+    },
+    {
+      "text": "afternoon",
+      "isCompleted": false,
+      "id": 8
+    },
+    {
+      "text": "mumbai",
+      "isCompleted": false,
+      "id": 9
+    }
+  ]
+}
